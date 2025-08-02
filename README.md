@@ -3,7 +3,9 @@
 
 <p>
   I made a chatbot with tkinter and tkkboostrap. 
-  I added two labels, one textbox scroll area, one button, and one entry box
+  I added two labels, one textbox scroll area, one button, and one entry box.
+  My plan is to implement menu button and it will calculate, shows the graph, and gets from the chatgpt input.
+  After getting the information, the another window opens and it shows the graph.
 </p>
 
 
