@@ -9,7 +9,7 @@
 </p>
 
 
-<img alignment="center" width="369" height="608" alt="image" src="https://github.com/user-attachments/assets/e8b2cf0f-6dba-49eb-9b32-3671bd6075c0" />
+<img align="center" width="369" height="608" alt="image" src="https://github.com/user-attachments/assets/e8b2cf0f-6dba-49eb-9b32-3671bd6075c0" />
 
 
 <h2>Showing entering the user input</h2>
